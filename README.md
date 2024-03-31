@@ -1,4 +1,7 @@
 # BookUsNow project
+This project is about Events booking.we can explore upcoming events and current events in this website. this site is full reposive you can use in mobile chrome browsers as well to explore events.
+![image](https://github.com/BheemNaragonda/BookUsNow-website/assets/113458825/f17ed5a5-dce4-4a14-a605-53563141f54e)
+
 Technologies used in this projec
 1. React
 2. Html
@@ -10,7 +13,7 @@ https://funny-klepon-c2398a.netlify.app/
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
-## Available Scripts
+## Steps to setup project
 
 In the project directory, you can run:
 
@@ -37,42 +40,17 @@ Your app is ready to be deployed!
 
 See the section about [deployment](https://facebook.github.io/create-react-app/docs/deployment) for more information.
 
-### `npm run eject`
-
-**Note: this is a one-way operation. Once you `eject`, you can't go back!**
-
-If you aren't satisfied with the build tool and configuration choices, you can `eject` at any time. This command will remove the single build dependency from your project.
-
-Instead, it will copy all the configuration files and the transitive dependencies (webpack, Babel, ESLint, etc) right into your project so you have full control over them. All of the commands except `eject` will still work, but they will point to the copied scripts so you can tweak them. At this point you're on your own.
-
-You don't have to ever use `eject`. The curated feature set is suitable for small and middle deployments, and you shouldn't feel obligated to use this feature. However we understand that this tool wouldn't be useful if you couldn't customize it when you are ready for it.
-
-## Learn More
-
-You can learn more in the [Create React App documentation](https://facebook.github.io/create-react-app/docs/getting-started).
-
-To learn React, check out the [React documentation](https://reactjs.org/).
-
-### Code Splitting
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/code-splitting](https://facebook.github.io/create-react-app/docs/code-splitting)
-
-### Analyzing the Bundle Size
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/analyzing-the-bundle-size](https://facebook.github.io/create-react-app/docs/analyzing-the-bundle-size)
-
-### Making a Progressive Web App
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/making-a-progressive-web-app](https://facebook.github.io/create-react-app/docs/making-a-progressive-web-app)
-
-### Advanced Configuration
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/advanced-configuration](https://facebook.github.io/create-react-app/docs/advanced-configuration)
 
 ### Deployment
 
-This section has moved here: [https://facebook.github.io/create-react-app/docs/deployment](https://facebook.github.io/create-react-app/docs/deployment)
+I have used netlify platform to deploy this website.
+steps to deploy website:
+1. **Build Your React App**:
+    - Run `npm run build` in your project directory. This creates a `build` folder with production-ready files.
+2. **Set Up Netlify Account**:
+    - If you don’t have a Netlify account, create one at [Netlify](https://www.netlify.com/).
+3. **Deploy on Netlify**:
+    - After logging in, go to the 'Sites' section.
+    - Drag and drop your `build` folder here.
+    - Netlify will automatically deploy your site and provide a URL.
 
-### `npm run build` fails to minify
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify](https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify)
