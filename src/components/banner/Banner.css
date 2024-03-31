@@ -1,0 +1,45 @@
+.Banner-Section-bg-container {
+    padding: 40px 30px;
+    margin-top: 6.5vh;
+    background-image: url('../../assets/images/Banner.svg');
+    background-size: cover;
+    position: relative;
+    
+}
+.Banner-Section-Heading{
+    color: #ffffff;
+    font-family: 'Inter';
+}
+.Banner-Section-Paragraph{
+    color: #ffffff;
+    font-size: 16px;
+}
+.Banner-Section-Text-Container{
+    height: 70vh;
+}
+.events-container{
+    position:absolute;
+    bottom: -15vh;
+    left: 4vw;
+}
+.image-container{
+   
+    background-size: cover;
+    display: flex;
+    flex-direction: column;
+    justify-content: end;
+    margin-right: 20px;
+    
+  
+}
+
+.mainContainer1{
+  width: 90vw;
+  height: 300px;
+  overflow-x: auto; 
+  overflow-y: hidden;
+  white-space: nowrap; 
+  scroll-behavior: smooth;
+  scrollbar-width: none;
+  display: flex;
+}
