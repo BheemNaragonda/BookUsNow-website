@@ -1,4 +1,9 @@
-# Getting Started with Create React App
+# BookUsNow project
+Technologies used in this projec
+1. React
+2. Html
+3. css
+4. bootstrap
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
